@@ -3,6 +3,7 @@ module Tests
   )
 where
 
+import Test.Hspec
 import Task
 import Test.Tasty.Hspec
 
